@@ -1,5 +1,5 @@
 public class Time {
-  int hours, minutes, seconds;
+  private int hours, minutes, seconds;
 
   public Time() {
     this.hours = 0;
